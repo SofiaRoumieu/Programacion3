@@ -1,0 +1,12 @@
+{
+    "name": "paisajito/tp-composer",
+    "authors": [
+        {
+            "name": "SofiaRoumieu",
+            "email": "roumieusofia@gmail.com"
+        }
+    ],
+    "require": {
+        "namnv609/php-rest-countries": "^1.0"
+    }
+}
