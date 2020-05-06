@@ -1,0 +1,12 @@
+{
+    "name": "paisajito/primer-parcial",
+    "authors": [
+        {
+            "name": "SofiaRoumieu",
+            "email": "roumieusofia@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
